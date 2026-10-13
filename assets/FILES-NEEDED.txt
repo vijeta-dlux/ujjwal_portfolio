@@ -1,0 +1,65 @@
+ASSET CHECKLIST
+===============
+
+A) ALREADY SHOWING: loaded from your Framer site as a backup.
+   Save each image from the URL to the local path on the left; the site then uses
+   the local copy automatically.
+
+  assets/projects/boat-nirvana-thumb.png               <- https://framerusercontent.com/images/IMJJtx0TGu7VDztl07X93kKehuU.png
+  assets/projects/case-studies-banner.jpg              <- https://framerusercontent.com/images/1esGDsTKZKxYLPNkiSfRrWeiEoA.png
+  assets/projects/stanfest-2024-thumb.jpg              <- https://framerusercontent.com/images/EQj3aeXxa4QWkFjRwB5kzZMwaB0.jpg
+  assets/projects/tanishq-akshaya-tritiya-thumb.png    <- https://framerusercontent.com/images/1esGDsTKZKxYLPNkiSfRrWeiEoA.png
+  assets/testimonials/nauman-mulla.png                 <- https://framerusercontent.com/images/G5sj00OkKNVFUXjBmsJwvYK7H8.png
+  assets/testimonials/nikita-mantri.png                <- https://framerusercontent.com/images/SAFHpDir5fgEHZ7j3taSZGcXYgw.png
+  assets/testimonials/vijeta-kumari.png                <- https://framerusercontent.com/images/R4VYV1WMN2OSBlpoIY4fwx1wJ6o.png
+  assets/visuals/akshaya-tritiya-01.jpg                <- https://framerusercontent.com/images/gm5wYYK3AQwIe9l0qxNpuCGCKsc.jpg
+  assets/visuals/akshaya-tritiya-02.jpg                <- https://framerusercontent.com/images/7X2UJ4TVQK7RqexWcLYjsrkylB0.jpg
+  assets/visuals/akshaya-tritiya-03.jpg                <- https://framerusercontent.com/images/rvVoPku3yZ8umDscyFWXB6kOHbc.jpg
+  assets/visuals/akshaya-tritiya-04.jpg                <- https://framerusercontent.com/images/brhnv27cCN8jeTLluurQqOlfRk.jpg
+  assets/visuals/boat-nirvana-01.jpg                   <- https://framerusercontent.com/images/rvJ6lVJOc0NOPJMNDFd1vW2wk.jpg
+  assets/visuals/boat-nirvana-02.jpg                   <- https://framerusercontent.com/images/rBKSbRaMgdcEUsNwUr2DirZeoc.jpg
+  assets/visuals/boat-nirvana-03.jpg                   <- https://framerusercontent.com/images/2ST5f5OVvtvRlYGgEMrAcxOCLi8.jpg
+  assets/visuals/boat-nirvana-04.jpg                   <- https://framerusercontent.com/images/ByoajoGrAwDyjsZvsiSZEaFZtp4.jpg
+  assets/visuals/stanfest-01.jpg                       <- https://framerusercontent.com/images/s1oyfy8jeuDFAzxVONrF9VWM.jpg
+  assets/visuals/stanfest-02.jpg                       <- https://framerusercontent.com/images/JSXJ9zqUQ33vxN0k9BJeIv1qRE.jpg
+  assets/visuals/stanfest-03.jpg                       <- https://framerusercontent.com/images/3owCGIrFBllvjehlgKn76fFU0.jpg
+  assets/visuals/stanfest-04.jpg                       <- https://framerusercontent.com/images/bqKBRjJdonpLwmPwplY1507htM.jpg
+
+B) STILL NEEDED: these show a labelled placeholder until you add them.
+
+  assets/brands/boat.svg
+  assets/brands/damas.svg
+  assets/brands/designlensux.svg
+  assets/brands/fanspace.svg
+  assets/brands/full-stop-media.svg
+  assets/brands/kisna.svg
+  assets/brands/sportskeeda.svg
+  assets/brands/stan.svg
+  assets/brands/tanishq.svg
+  assets/brands/titan.svg
+  assets/brands/underdogs-arena.svg
+  assets/brands/zupee.svg
+  assets/projects/designlensux-01.jpg
+  assets/projects/designlensux-02.jpg
+  assets/projects/designlensux-03.jpg
+  assets/projects/designlensux-hero.jpg
+  assets/projects/designlensux-thumb.jpg
+  assets/projects/stan-app-01.jpg
+  assets/projects/stan-app-02.jpg
+  assets/projects/stan-app-03.jpg
+  assets/projects/stan-hero.jpg
+  assets/projects/stan-thumb.jpg
+  assets/projects/tanishq-mothers-day-01.jpg
+  assets/projects/tanishq-mothers-day-02.jpg
+  assets/projects/tanishq-mothers-day-03.jpg
+  assets/projects/tanishq-mothers-day-hero.jpg
+  assets/projects/tanishq-mothers-day-thumb.jpg
+  assets/projects/tanishq-rivaah-01.jpg
+  assets/projects/tanishq-rivaah-02.jpg
+  assets/projects/tanishq-rivaah-03.jpg
+  assets/projects/tanishq-rivaah-hero.jpg
+  assets/projects/tanishq-rivaah-thumb.jpg
+
+C) BRANDING PAGES: put each brand's images in assets/branding/<brand-id>/ and list them as blocks.
+
+D) OPTIONAL: assets/og-image.jpg (1200 x 630 social preview).
